@@ -58,6 +58,7 @@
     <Compile Include="GrayScaleFilter.cs" />
     <Compile Include="Harsh.cs" />
     <Compile Include="InvertFilter.cs" />
+    <Compile Include="Rashir.cs" />
     <Compile Include="MatrixFilter.cs" />
     <Compile Include="MedianFilter.cs" />
     <Compile Include="MotionBlur.cs" />
@@ -65,6 +66,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sepiya.cs" />
     <Compile Include="Sobel.cs" />
+    <Compile Include="Suzenie.cs" />
     <Compile Include="WaveFilter.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

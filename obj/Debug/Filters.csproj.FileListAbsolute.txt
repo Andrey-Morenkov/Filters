@@ -23,3 +23,16 @@ F:\Моренков\bin\Debug\Filters.pdb
 F:\Моренков\obj\Debug\Filters.Form1.resources
 F:\Моренков\obj\Debug\Filters.Properties.Resources.resources
 F:\Моренков\obj\Debug\Filters.csproj.GenerateResource.Cache
+C:\Users\tvc\Documents\Моренков\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+D:\Filters\bin\Debug\Filters.exe.config
+D:\Filters\obj\Debug\Filters.exe
+D:\Filters\obj\Debug\Filters.pdb
+D:\Filters\bin\Debug\Filters.exe
+D:\Filters\bin\Debug\Filters.pdb
+D:\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+D:\Filters\obj\Debug\Filters.Form1.resources
+D:\Filters\obj\Debug\Filters.Properties.Resources.resources
+D:\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
+C:\Users\Hryasch\Documents\GitHub\Filters\bin\Debug\Filters.exe.config
+C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.exe
+C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.pdb

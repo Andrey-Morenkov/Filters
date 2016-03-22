@@ -131,5 +131,17 @@ namespace Filters
             backgroundWorker1.RunWorkerAsync(filter);
         }
 
+        private void расширениеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Rashir(3);
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void сужениеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Suzenie(3);
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
     }
 }
