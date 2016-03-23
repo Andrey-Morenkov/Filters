@@ -58,6 +58,7 @@
     <Compile Include="GrayScaleFilter.cs" />
     <Compile Include="Harsh.cs" />
     <Compile Include="InvertFilter.cs" />
+    <Compile Include="Open.cs" />
     <Compile Include="Rashir.cs" />
     <Compile Include="MatrixFilter.cs" />
     <Compile Include="MedianFilter.cs" />

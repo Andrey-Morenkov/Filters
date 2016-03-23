@@ -53,8 +53,6 @@
             this.матморфологияToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.расширениеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.сужениеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.открытиеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.закрытиеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.button1 = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
@@ -221,7 +219,8 @@
             // усреднениеToolStripMenuItem
             // 
             this.усреднениеToolStripMenuItem.Name = "усреднениеToolStripMenuItem";
-            this.усреднениеToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
+            this.усреднениеToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.усреднениеToolStripMenuItem.Click += new System.EventHandler(this.усреднениеToolStripMenuItem_Click);
             // 
             // удалениеШумаToolStripMenuItem
             // 
@@ -243,9 +242,7 @@
             // 
             this.матморфологияToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.расширениеToolStripMenuItem,
-            this.сужениеToolStripMenuItem,
-            this.открытиеToolStripMenuItem,
-            this.закрытиеToolStripMenuItem});
+            this.сужениеToolStripMenuItem});
             this.матморфологияToolStripMenuItem.Name = "матморфологияToolStripMenuItem";
             this.матморфологияToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
             this.матморфологияToolStripMenuItem.Text = "Матморфология";
@@ -263,18 +260,6 @@
             this.сужениеToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.сужениеToolStripMenuItem.Text = "Сужение";
             this.сужениеToolStripMenuItem.Click += new System.EventHandler(this.сужениеToolStripMenuItem_Click);
-            // 
-            // открытиеToolStripMenuItem
-            // 
-            this.открытиеToolStripMenuItem.Name = "открытиеToolStripMenuItem";
-            this.открытиеToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.открытиеToolStripMenuItem.Text = "Открытие";
-            // 
-            // закрытиеToolStripMenuItem
-            // 
-            this.закрытиеToolStripMenuItem.Name = "закрытиеToolStripMenuItem";
-            this.закрытиеToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.закрытиеToolStripMenuItem.Text = "Закрытие";
             // 
             // progressBar1
             // 
@@ -351,8 +336,6 @@
         private System.Windows.Forms.ToolStripMenuItem матморфологияToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem расширениеToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem сужениеToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem открытиеToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem закрытиеToolStripMenuItem;
     }
 }
 

@@ -36,3 +36,9 @@ D:\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
 C:\Users\Hryasch\Documents\GitHub\Filters\bin\Debug\Filters.exe.config
 C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.exe
 C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.pdb
+C:\Users\Hryasch\Documents\GitHub\Filters\bin\Debug\Filters.exe
+C:\Users\Hryasch\Documents\GitHub\Filters\bin\Debug\Filters.pdb
+C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.Form1.resources
+C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.Properties.Resources.resources
+C:\Users\Hryasch\Documents\GitHub\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache

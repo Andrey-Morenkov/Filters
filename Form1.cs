@@ -143,5 +143,10 @@ namespace Filters
             backgroundWorker1.RunWorkerAsync(filter);
         }
 
+        private void усреднениеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

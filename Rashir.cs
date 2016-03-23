@@ -58,17 +58,17 @@ namespace Filters
             MH = MW = rad;
 
             mask = new bool[rad, rad];
-            mask[0,0] = false;
+            mask[0,0] = true;
             mask[0,1] = true;
-            mask[0,2] = false;
+            mask[0,2] = true;
 
             mask[1,0] = true;
             mask[1,1] = true;
             mask[1,2] = true;
 
-            mask[2,0] = false;
+            mask[2,0] = true;
             mask[2,1] = true;
-            mask[2,2] = false;
+            mask[2,2] = true;
                 
         }
 
